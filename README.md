@@ -1,1 +1,1 @@
-Hello, mom
+Hello, world
